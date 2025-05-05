@@ -48,31 +48,27 @@ const config = {
             {
                 inGameName: "1aestotic",
                 rank: "Kurucu",
-                skinUrlOrPathToFile: "https://namemc.com/profile/Zxtra.1",
+                skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
                 inGameName: "Boş",
                 rank: "Developer",
-                skinUrlOrPathToFile: "https://namemc.com/skin/ab729cae898846de",
-                rankColor: ""
+                skinUrlOrPathToFile: "",
+                rankColor: "83"
             },
             {
                 inGameName: "Boş",
                 rank: "Moderator",
-                skinUrlOrPathToFile: "https://namemc.com/skin/ab729cae898846de",
-                rankColor: ""
+                skinUrlOrPathToFile: "",
+                rankColor: "11"
             }
-        ],
-        builderler: [
             {
                 inGameName: "Boş",
                 rank: "Builder",
-                skinUrlOrPathToFile: "https://namemc.com/skin/ab729cae898846de",
-                rankColor: ""
+                skinUrlOrPathToFile: "",
+                rankColor: "247"
             },
-        ]
-    },
 
     /*
     Contact form
